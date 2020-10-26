@@ -58,3 +58,4 @@ function return more arrays if second argument(summ) can contains more than 2 nu
         }
 
         console.log( tt([1,2,3,4,5],10) );
+        //[ [ 1, 4, 5 ], [ 2, 3, 5 ], [ 1, 2, 3, 4 ] ]
