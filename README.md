@@ -1,7 +1,5 @@
-# test task
-test to Make function 
-
-function must return arrays of numbers from first argument that in summ must be as second argument
+### test task at interview
+test to make a function that return arrays of numbers from first argument that in summ must be as second argument
   first argument array if numbers
   second argument is summ number
   return array of number arrays
