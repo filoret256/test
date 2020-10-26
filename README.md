@@ -9,7 +9,7 @@ function must return arrays of numbers from first argument that in summ must be 
 well at interview that task is simple you need just to return of 2 numbers that at summ will be a second argument
 but i go futher ( it tooks about hour :( )
 function return more arrays if second argument(summ) can contains more than 2 numbers
-{
+`
 const tt = (arr,n) => {
   let result = [];
   let inerArray = [];
@@ -59,4 +59,4 @@ const tt = (arr,n) => {
 
 console.log( tt([1,2,3,4,5],10) );
 // [ [ 1, 4, 5 ], [ 2, 3, 5 ], [ 1, 2, 3, 4 ] ]
-}
+`
