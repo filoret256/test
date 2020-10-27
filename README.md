@@ -5,7 +5,7 @@ test to make a function that return arrays of numbers from first argument that i
   return array of number arrays
 
 well at interview that task is simple you need just to return of 2 numbers that at summ will be a second argument
-but i go futher ( it tooks about hour :( )
+but i go futher 
 function return more arrays if second argument(summ) can contains more than 2 numbers
 
         const tt = (arr,n) => {
