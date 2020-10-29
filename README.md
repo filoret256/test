@@ -9,6 +9,7 @@ but i go futher
 function return more arrays if second argument(summ) can contains more than 2 numbers
 
 
+
         const tt = (arr,n) => {
           let result = [];
           let inerArray = [];
