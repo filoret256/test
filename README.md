@@ -8,6 +8,7 @@ well at interview that task is simple you need just to return of 2 numbers that 
 but i go futher 
 function return more arrays if second argument(summ) can contains more than 2 numbers
 
+
         const tt = (arr,n) => {
           let result = [];
           let inerArray = [];
@@ -16,7 +17,7 @@ function return more arrays if second argument(summ) can contains more than 2 nu
             inerArray.push([el]);
             });
           
-          let moreSearch = [];
+          let moreSearch =  [];
 
 
           while (inerArray.length >0){
